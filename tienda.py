@@ -17,7 +17,6 @@ Crear un programa en Python que analice un conjunto de **datos de ventas de una 
 - ¿Cuál es el producto más vendido?
 - ¿Cuál es el mes con más ventas?
 5. **Datos Agrupados**: Agrupa los datos por categoría de producto y analiza las ventas por categoría.
-6. **Guardar Resultados**: Al final, guarda el DataFrame completo (incluyendo la columna de meses) en un archivo .csv en tu ordenador.
 '''
 
 '''## Lectura y fusión de datos'''
